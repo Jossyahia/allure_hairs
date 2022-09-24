@@ -12,8 +12,8 @@ let speed = 300
 
 ///New Today
 //const API_URL = 'http://localhost:2121/api'
-const API_URL = 'https://lazy-gold-cockatoo-wrap.cyclic.app/api'
-const SEARCH_API = 'http://localhost:2121/api/:id?'
+const API_URL = 'https://erin-oyster-slip.cyclic.app/api'
+const SEARCH_API = 'https://erin-oyster-slip.cyclic.app/api/:id?'
 
 writeText()
 
