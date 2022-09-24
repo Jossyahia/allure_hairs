@@ -1,0 +1,15 @@
+{
+  "name": "allure_hairs",
+  "version": "1.0.0",
+  "description": "front_end",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "front",
+    "end"
+  ],
+  "author": "Ovap Technologies",
+  "license": "ISC"
+}
