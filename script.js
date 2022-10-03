@@ -57,7 +57,7 @@ function showPosts(posts) {
       <span class="${getClassByRate(likes)}">${likes}</span>
         </div>
         <div class="overview">
-      <h3>Descripton</h3>
+      <h3>Product Details</h3>
       ${description}
     </div>
     `
