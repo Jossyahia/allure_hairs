@@ -4,7 +4,7 @@ const search = document.getElementById('search')
 
 const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
-const text = 'Welcome To Allure_hairs'
+const text = 'This is Allure_hairs'
 let idx = 1
 let speed = 300
 
